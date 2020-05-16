@@ -1,0 +1,37 @@
+.banner {
+
+  background-image: url(https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+
+}
+
+.banner .container {
+
+    width: 900px;
+    margin: auto;
+    color: white;
+    text-shadow: 1px 1px black;
+
+}
+
+.banner .container a {
+
+  border: 1px solid white;
+  padding: 12px 25px;
+  background-color: #7289DA;
+  border-radius: 6px;
+  color: white;
+  transition: 0.2s;
+  margin: 8px 0px;
+  display: inline-block;
+
+}
+
+.banner .container a:hover {
+
+  color: #647cc9;
+
+}
+
